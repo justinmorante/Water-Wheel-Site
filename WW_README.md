@@ -11,7 +11,7 @@
 - Home page background video is included in the "video" folder.
 - Artwork and photo files are included in the "images" folder.
 - Project uses Bootstrap framework and jQuery library.
-- All additional plugins are included in CSS nd JS folders. 
+- All additional plugins are included in CSS and JS folders. 
 
 ## Project Files and Folders
 
