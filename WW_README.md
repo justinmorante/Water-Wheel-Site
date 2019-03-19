@@ -1,4 +1,4 @@
-# Discography Page
+# Water Wheel Web Design Site
 
 ## Table of Contents
 
